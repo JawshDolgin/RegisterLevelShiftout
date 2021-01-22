@@ -1,2 +1,5 @@
-# RegisterLevelShoftout
-Register level shiftout (intended for 595 shift registers) code in the arduino IDE. 
+This code is to replicate the shiftOut command when interfacing with
+HC595 shift registers using mostly register level coding.
+
+Register level coding is the act of using binary and bitwise operators to change
+pin states.
